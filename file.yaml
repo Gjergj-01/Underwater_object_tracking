@@ -4,5 +4,5 @@ train: images/train
 val: images/val
 test: images/test
 
-nc: 32 
-names: ['ArmyDiver1', 'ArmyDiver2', 'ArmyDiver3', 'Ballena', 'BlueFish1', 'BlueFish2', 'BoySwimming', 'CenoteAngelita', 'DeepSeaFish', 'Dolphin1', 'Dolphin2', 'FishFollowing', 'Fisherman', 'GarryFish', 'HoverFish1', 'HoverFish2', 'JerkbaitBites', 'MonsterCreature1', 'MonsterCreature2', 'Octopus1', 'Octopus2', 'PinkFish', 'SeaDiver', 'SeaDragon', 'SeaTurtle1', 'SeaTurtle2', 'SeaTurtle3', 'Steinlager', 'WhaleAtBeach1', 'WhaleAtBeach2', 'WhaleDiving', 'WhiteShark']
+nc: 14
+names: ['ArmyDiver1', 'Ballena', 'BlueFish2', 'BoySwimming', 'CenoteAngelita', 'Dolphin1', 'FishFollowing', 'JerkbaitBites', 'Octopus1', 'PinkFish', 'SeaDiver', 'SeaTurtle3', 'WhaleAtBeach2', 'WhiteShark']
