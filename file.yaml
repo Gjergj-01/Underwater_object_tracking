@@ -4,5 +4,5 @@ train: images/train
 val: images/val
 test: images/test
 
-nc: 11
-names: ['ArmyDiver3', 'BlueFish2', 'BoySwimming', 'CenoteAngelita', 'FishFollowing', 'HoverFish1', 'JerkbaitBites', 'Octopus1', 'PinkFish', 'WhaleAtBeach2', 'WhaleDiving']
+nc: 5
+names: ['Fish', 'Octopus', 'Person', 'Turtle', 'Whale']
